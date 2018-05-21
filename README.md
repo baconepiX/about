@@ -11,7 +11,7 @@ My skills include computer programming, mathematics, Japanese(native) and Englis
 </div>
 <div class="paper">
 <div class="paper_picture">
-<img src= "https://github.com/baconepiX/about/blob/master/Screenshot%20from%202018-05-21%2013-36-25.png?raw=true" title="paper" alt="paper" style="max_width:100%"/>
+<img class="picture" src= "https://github.com/baconepiX/about/blob/master/Screenshot%20from%202018-05-21%2013-36-25.png?raw=true" title="paper" alt="paper"/>
 </div>
 <div class="paper_caption">
 Here is a paper that I presented at 25th Conference of Mathematical Finance in University of Tokyo in 2015.
@@ -23,7 +23,7 @@ Here is a paper that I presented at 25th Conference of Mathematical Finance in U
 </div>
 <div class="fund">
 <div class="fund_picture">
-<img src="https://github.com/baconepiX/about/blob/master/mutual-fund-l.jpg?raw=true" title="Mutual Fund" style="max_width:100%"/>
+<img class="picture" src="https://github.com/baconepiX/about/blob/master/mutual-fund-l.jpg?raw=true" title="Mutual Fund"/>
 </div>
 <div class="fund_description">
 Here is the link to the innovative, cutting-edge fund that I supervised in 2017. The fund belong to BlackWater, Inc and I gave advice for them.  The fund was chosen as the best of funds in 2018 by MorningStar Inc. I was very excited about the project and pleased with the result.
