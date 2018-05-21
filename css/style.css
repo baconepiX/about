@@ -1,9 +1,14 @@
-.paper_picture, .fund_picture {
+.paper_picture, .paper_caption, .fund_picture, .fund_description {
   float: left;
   border-color: yellow;
-  width: 1%;
+  width: 50%;
 }
 
-.fund {
-  width: 10%;
+.paper, .fund {
+  border:none;
+  &:after {
+  	content: "";
+  	display: block;
+  	clear: both;
+  }
 }
