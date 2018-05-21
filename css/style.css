@@ -1,7 +1,8 @@
 .paper_picture, .paper_caption, .fund_picture, .fund_description {
   float: left;
   border-color: yellow;
-  width: 50%;
+  width: 45%;
+  margin-right: 2% 
 }
 
 .paper, .fund {
