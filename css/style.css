@@ -1,0 +1,9 @@
+.paper_picture, .fund_picture {
+  float: left;
+  border-color: yellow;
+  width: 1%;
+}
+
+.fund {
+  width: 10%;
+}
