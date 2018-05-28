@@ -29,3 +29,19 @@ Here is a paper that I presented at 25th Conference of Mathematical Finance in U
 Here is the link to the innovative, cutting-edge fund that I supervised in 2017. The fund belong to BlackWater, Inc and I gave advice for them.  The fund was chosen as the best of funds in 2018 by MorningStar Inc. I was very excited about the project and pleased with the result.
 </div>
 </div>
+
+## Education
+Master's Degree in Physcs.  
+University of Tokyo, Tokyo, Japan(April 2010 - March 2012)
+
+## Work Experience
+
+BlackWater, Inc.
+<u>Quantative Analyst(April 2012 - Present)</u>
+- Managing a team of 5 people
+- Optimizing asset allocation
+- Developing a new investment scheme
+
+
+
+
