@@ -31,11 +31,12 @@ Here is the link to the innovative, cutting-edge fund that I supervised in 2017.
 </div>
 
 ## Education
+<a name="Education"></a>
 Master's Degree in Physcs.  
 University of Tokyo, Tokyo, Japan(April 2010 - March 2012)
 
 ## Work Experience
-
+<a name="WorkExperience"></a>
 BlackWater, Inc.
 <u>Quantative Analyst(April 2012 - Present)</u>
 - Managing a team of 5 people
